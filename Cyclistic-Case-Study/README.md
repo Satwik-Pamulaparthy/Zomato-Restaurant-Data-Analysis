@@ -9,7 +9,7 @@ This project analyzes 12 months of bike-share data from Cyclistic, a fictional c
 
 ## 📂 Structure
 
-- `notebooks/` – Main analysis notebooks (Python, R, or Jupyter)
+- `notebooks/` – Main analysis notebooks (R & Jupyter)
 - `data/` – Datasets 
 - `reports/` – Summaries, presentations, or visualizations
 
@@ -20,7 +20,6 @@ This project analyzes 12 months of bike-share data from Cyclistic, a fictional c
 3. (Optional) Download data as described in the notebook
 
 ## 🛠️ Tools Used
-
 
 - R & R Markdown
 - SQL Server
