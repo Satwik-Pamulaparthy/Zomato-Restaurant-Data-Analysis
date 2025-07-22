@@ -4,7 +4,7 @@ Welcome! I'm Sibeso Like, an aspiring Data Analyst passionate about turning data
 
 ## 👨‍💻 About Me
 
-I am currently pursuing the Google Data Analytics Professional certificate programm on Coursera and building hands-on experience in data cleaning, visualization, and analysis. My goal is to apply analytical thinking and technical skills to solve real-world problems.
+I am a graduate of the Google Data Analytics Professional certificate program. I have hands-on experience in data cleaning, visualization, and analysis. My goal is to apply analytical thinking and technical skills to solve real-world problems.
 
 ## 🛠️ Skills & Tools
 
