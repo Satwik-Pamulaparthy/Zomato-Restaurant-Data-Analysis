@@ -8,7 +8,6 @@ I am currently pursuing the Google Data Analytics Professional certificate progr
 
 ## 🛠️ Skills & Tools
 
-- Jupyter Notebooks
 - SQL 
 - Excel, Google Sheets
 - Data Visualization
@@ -17,6 +16,8 @@ I am currently pursuing the Google Data Analytics Professional certificate progr
 - R Markdown
 - Tableau
 - Power BI
+- BigQuery
+- Jupyter Notebooks
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 ## 📁 Projects & Case Studies
