@@ -16,13 +16,12 @@ This project analyzes 12 months of bike-share data from Cyclistic, a fictional c
 ## 🚀 How to Reproduce
 
 1. Clone this repo
-2. Open the notebook in the `notebooks/` folder
-3. (Optional) Download data as described in the notebook
 
 ## 🛠️ Tools Used
 
 - R & R Markdown
 - SQL Server
+- Azure Data Studio
 
 
 ## 📫 Contact
