@@ -21,7 +21,7 @@ I am currently pursuing the Google Data Analytics Professional certificate progr
 
 ## 📁 Projects & Case Studies
 
-### 1. [Cyclistic Case Study]
+### 1. Cyclistic Case Study
 * Cyclistic is a fictional bike-share company based in Chicago, USA that offers thousands of bicycles for public use through a network of docking stations. The service is used by both casual riders, who pay per trip, and annual members who pay a flat fee for unlimited access during their subscription. The dataset used in this case study consists of 12 months of historical trip data collected from Cyclistic’s public records. It includes key information such as ride IDs, timestamps, start/end stations, user types, and location coordinates.*
 * The main objective of this analysis was to identify how annual members and casual riders use Cyclistic bikes differently. By understanding these differences, Cyclistic’s marketing team aims to develop data-driven strategies to convert casual riders into annual members, thus increasing recurring revenue and user retention.*
 
