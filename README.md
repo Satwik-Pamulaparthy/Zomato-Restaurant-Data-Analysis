@@ -4,7 +4,7 @@ Welcome! I'm Sibeso Like, an aspiring Data Analyst passionate about turning data
 
 ## 👨‍💻 About Me
 
-I am a graduate of the Google Data Analytics Professional certificate program. I have hands-on experience in data cleaning, visualization, and analysis. My goal is to apply analytical thinking and technical skills to solve real-world problems.
+With a decade of experience in Information Technology, I bring a unique blend of innovative excellence and a certified Google Data Analytics skillset to unlock insights from complex data. I am highly proficient in SQL, BigQuery, R programming, R Markdown, Spreadsheets, Tableau, Power BI, Jupyter Notebooks, and Python, driven by a passion to help organizations transform raw data into clear, actionable intelligence. A strong collaborator who values precision and clarity, I am motivated to leverage my analytical expertise to drive informed decision-making and achieve organizational excellence.
 
 ## 🛠️ Skills & Tools
 
