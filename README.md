@@ -39,7 +39,7 @@ I am a Google-certified Data Analyst with a 10-year foundation in Information Te
 
 **[➡️ View Full Analysis on GitHub](https://github.com/MeLike-25/Data-Analytics/blob/518cdef2d453fb5935fbd9c4a3d5f05c104add11/Cyclistic-Case-Study/Cyclistic_Case_Study_Final_Report.pdf)** | **[ dashboards link](link-to-your-live-tableau-dashboard)**
 
-* *(Add your next project here following the same template)*
+`` *(Add your next project here following the same template)*
 
 ---
 
