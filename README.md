@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Welcome! I'm **Sibeso Like**, an aspiring Data Analyst passionate about turning data into actionable insights. This portfolio showcases my projects and case studies as I progress through my data analytics journey.
+Welcome! I'm **Sibeso Like**, an associate **Data Analyst** passionate about turning data into actionable insights. This portfolio showcases my projects and case studies as I progress through my data analytics journey.
 
 ## 👨‍💻 About Me
 
