@@ -28,7 +28,7 @@ I am a Google-certified Data Analyst with a 10-year foundation in Information Te
 
 ### 1. Cyclistic Bike-Share: Marketing Strategy Case Study
 
-*This case study analyzes 12 months of historical trip data from a fictional Chicago bike-share company to understand the behavioral differences between annual members and casual riders. The goal was to provide data-driven recommendations to convert casual riders into more profitable annual members.*
+*This case study analyzes 12 months (from 2024-07 to 2025-06) of historical  trip data from a fictional Chicago bike-share company to understand the behavioral differences between annual members and casual riders. The goal was to provide data-driven recommendations to convert casual riders into more profitable annual members.*
 
 * **Key Insight:** Discovered that casual riders primarily use the service for leisure trips on weekends, while annual members use it for shorter, more frequent commuter trips during the week. This suggests distinct marketing strategies are needed for each segment.
 * **My Process:**
