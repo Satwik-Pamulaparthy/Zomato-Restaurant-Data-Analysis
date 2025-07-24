@@ -32,14 +32,14 @@ I am a Google-certified Data Analyst with a 10-year foundation in Information Te
 
 * **Key Insight:** Discovered that casual riders primarily use the service for leisure trips on weekends, while annual members use it for shorter, more frequent commuter trips during the week. This suggests distinct marketing strategies are needed for each segment.
 * **My Process:**
-    * Collected and aggregated 12 months of data using **SQL** in Google BigQuery.
-    * Cleaned, processed, and analyzed the data using **R** and the Tidyverse package.
-    * Created visualizations in **Tableau** to illustrate the differences in ride duration, time of day, and day of the week between user types.
-* **Tools Used:** `SQL`, `BigQuery`, `R (Tidyverse)`, `Tableau`
+    * Collected and aggregated 12 months of data using **SQL** in SQL Server Management Studio.
+    * Cleaned, processed, and analyzed the data using **SQL** in SQL Server Management Studio.
+    * Created visualizations using **R** and the Tidyverse package to illustrate the differences in ride duration, time of day, and day of the week between user types.
+* **Tools Used:** `SQL`, `R (Tidyverse)`.
 
-**[➡️ View Full Analysis on GitHub](link-to-your-project-repo-or-markdown-file)** | **[ dashboards link](link-to-your-live-tableau-dashboard)**
+**[➡️ View Full Analysis on GitHub](https://github.com/MeLike-25/Data-Analytics/blob/518cdef2d453fb5935fbd9c4a3d5f05c104add11/Cyclistic-Case-Study/Cyclistic_Case_Study_Final_Report.pdf)** | **[ dashboards link](link-to-your-live-tableau-dashboard)**
 
-*(Add your next project here following the same template)*
+* *(Add your next project here following the same template)*
 
 ---
 
