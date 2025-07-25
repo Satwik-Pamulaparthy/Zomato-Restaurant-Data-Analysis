@@ -1,28 +1,74 @@
-# Cyclistic Case Study
+# 🚴 Cyclistic Bike-Share Case Study  
+> A 12-Month Data-Driven Analysis of Rider Behavior Using SQL, R, and Power BI
 
-This project analyzes 12 months of bike-share data from Cyclistic, a fictional company in Chicago, to uncover how annual members and casual riders use the service differently. The goal is to provide actionable insights for marketing strategies aimed at converting more casual riders into annual members.
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/sibeso-like-228072191)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:sibesolike@gmail.com)
 
-## 📄 Project Objectives
-- Analyze usage patterns for different rider types
-- Identify trends in trip duration, frequency, and station usage
-- Provide data-driven recommendations for marketing
+---
 
-## 📂 Structure
+## 📌 Table of Contents
+- [📌 Overview](#overview)
+- [🎯 Business Objective](#business-objective)
+- [📊 Key Findings](#key-findings)
+- [📁 Project Structure](#project-structure)
+- [🧰 Tools & Technologies](#tools--technologies)
+- [📈 How to Reproduce](#how-to-reproduce)
+- [📬 Contact](#contact)
 
-- `notebooks/` – Main analysis notebooks (R & Jupyter)
-- `data/` – Datasets 
-- `reports/` – Summaries, presentations, or visualizations
+---
 
-## 🚀 How to Reproduce
+## 📌 Overview
 
-1. Clone this repo
+This data analysis project investigates user behavior over a 12-month period (July 2024 – June 2025) for **Cyclistic**, a fictional bike-share company based in Chicago.  
+The aim is to uncover how **casual riders** and **annual members** differ in ride patterns, station usage, and trip durations. Insights from this case study were used to support data-driven strategies for increasing annual memberships.
 
-## 🛠️ Tools Used
+---
 
-- R & R Markdown
-- SQL Server
-- Azure Data Studio
+## 🎯 Business Objective
 
+Cyclistic aims to grow revenue by **converting more casual riders into annual members**.  
+This analysis helps by:
+- Understanding rider behavior
+- Identifying usage trends
+- Recommending targeted digital strategies
 
-## 📫 Contact
-For questions or collaboration, email sibesolike@gmail.com or connect via [LinkedIn](https://www.linkedin.com/in/sibeso-like-228072191).
+---
+
+## 📊 Key Findings
+
+- 🕐 **Annual members** ride more frequently and during weekday peak hours.
+- 📆 **Casual riders** prefer weekends and midday rides, suggesting recreational use.
+- 📍 Start/end stations and rideable types vary significantly by user type.
+- 🚫 Trips with negative or zero durations, mismatched coordinates, and test rides were cleaned out to ensure quality analysis.
+
+📄 Full documentation: See the [Cyclistic Report (PDF)](reports/final_cyclistic_report.pdf)
+
+---
+
+## 📁 Project Structure
+
+cyclistic-case-study/
+│
+├── data/ # Raw and cleaned data files
+├── notebooks/ # SQL + R Markdown + Data Studio notebooks
+├── reports/ # Final reports in PDF, HTML, and ipynb formats
+├── visuals/ # Power BI charts & R plots
+└── README.md # Project README
+
+---
+
+## 🧰 Tools & Technologies
+
+- **SQL Server** – Data import, cleaning, and validation
+- **Azure Data Studio** – SQL development and documentation
+- **R + R Markdown** – Data wrangling, EDA, visualization, and reporting
+- **Power BI** – Dashboards for visual storytelling
+- **GitHub** – Version control and public portfolio sharing
+
+---
+
+## 📈 How to Reproduce
+
+1. **Clone the Repository**  
+```bash
+git clone https://github.com/your-username/cyclistic-case-study.git
