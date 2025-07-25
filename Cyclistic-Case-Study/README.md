@@ -13,7 +13,7 @@
 - [📁 Project Structure](#project-structure)
 - [🧰 Tools & Technologies](#tools--technologies)
 - [📈 How to Reproduce](#how-to-reproduce)
-- [📬 Contact](#contact)
+
 
 ---
 
