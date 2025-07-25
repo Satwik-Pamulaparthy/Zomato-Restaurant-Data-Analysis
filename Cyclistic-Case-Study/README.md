@@ -1,5 +1,5 @@
 # 🚴 Cyclistic Bike-Share Case Study  
-> A 12-Month Data-Driven Analysis of Rider Behavior Using SQL, R, and Power BI
+> A 12-Month Data-Driven Analysis of Rider Behavior Using SQL, R, and Tableau
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/sibeso-like-228072191)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:sibesolike@gmail.com)
@@ -41,7 +41,7 @@ This analysis helps by:
 - 📍 Start/end stations and rideable types vary significantly by user type.
 - 🚫 Trips with negative or zero durations, mismatched coordinates, and test rides were cleaned out to ensure quality analysis.
 
-📄 Full documentation: See the [Cyclistic Report (PDF)](reports/final_cyclistic_report.pdf)
+📄 Full documentation: See the [Cyclistic Report (PDF)](reports/final_cyclistic_report.pdf](https://github.com/MeLike-25/Data-Analytics/blob/9fb8c564efa5282015c34f661bd7517616b17256/Cyclistic-Case-Study/Cyclistic_Case_Study_Final_Report.pdf)
 
 ---
 
@@ -52,7 +52,7 @@ cyclistic-case-study/
 ├── data/ # Raw and cleaned data files
 ├── notebooks/ # SQL + R Markdown + Data Studio notebooks
 ├── reports/ # Final reports in PDF, HTML, and ipynb formats
-├── visuals/ # Power BI charts & R plots
+├── visuals/ # Tableau charts & R plots
 └── README.md # Project README
 
 ---
