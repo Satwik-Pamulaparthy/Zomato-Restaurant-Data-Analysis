@@ -62,7 +62,7 @@ cyclistic-case-study/
 - **SQL Server** – Data import, cleaning, and validation
 - **Azure Data Studio** – SQL development and documentation
 - **R + R Markdown** – Data wrangling, EDA, visualization, and reporting
-- **Power BI** – Dashboards for visual storytelling
+- **Tableau** – Dashboards for visual storytelling
 - **GitHub** – Version control and public portfolio sharing
 
 ---
@@ -71,4 +71,4 @@ cyclistic-case-study/
 
 1. **Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/cyclistic-case-study.git
+git clone https://github.com/MeLike-25/cyclistic-case-study.git
