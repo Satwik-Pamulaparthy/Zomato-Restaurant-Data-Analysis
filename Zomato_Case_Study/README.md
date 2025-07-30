@@ -52,7 +52,7 @@ To explore or reproduce the analysis:
 
 1. **Clone the repository:**  
    ```bash
-   git clone [Repository](https://github.com/MeLike-25/Data-Analytics)
+  git clone https://github.com/MeLike-25/zomato_case_study.git
    ```
 
 2. **Open the Notebooks:**  
@@ -71,7 +71,7 @@ All visualizations and key insights are embedded within the notebooks. Please re
 
 ## 🙏 Credits
 
-**[➡️ Data Source](https://kaggle.com)**
+**[➡️ Data Source downloaded on Kaggle](https://kaggle.com)**
 - Analysis & Reporting: [Sibeso Like]
 
 ## 📄 License
