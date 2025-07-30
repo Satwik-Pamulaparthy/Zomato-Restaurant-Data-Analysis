@@ -45,12 +45,11 @@ This analysis helps by:
 ## 📁 Project Structure
 
 cyclistic-case-study/
-│
-├── data/ # Raw and cleaned data files
-├── notebooks/ # SQL + R Markdown + Data Studio notebooks
-├── reports/ # Final reports in PDF, HTML, and ipynb formats
-├── visuals/ # Tableau charts & R plots
-└── README.md # Project README
+- `Data/` &mdash; Raw and cleaned datasets  
+- `Notebooks/` &mdash; Jupyter/Colab notebooks containing code, analysis, and visualizations  
+- `Visuals/` &mdash; Exported plots and charts
+-  `Reports/` &mdash; Consolidated Project Report 
+- `README.md` &mdash; Project overview and instructions
 
 ---
 
