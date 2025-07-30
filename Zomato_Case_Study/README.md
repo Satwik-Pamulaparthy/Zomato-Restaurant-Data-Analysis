@@ -52,7 +52,7 @@ To explore or reproduce the analysis:
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
+   git clone https://github.com/MeLike-25/Data-Analytics
    ```
 
 2. **Open the Notebooks:**  
