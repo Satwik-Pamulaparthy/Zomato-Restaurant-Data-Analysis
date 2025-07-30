@@ -46,7 +46,7 @@ This analysis helps by:
 
 cyclistic-case-study/
 - `Data/` &mdash; Raw and cleaned datasets  
-- `Notebooks/` &mdash; Jupyter/Colab notebooks containing code, analysis, and visualizations  
+- `Notebooks/` &mdash; Jupyter/Azure Data Studio notebooks containing code, analysis, and visualizations  
 - `Visuals/` &mdash; Exported plots and charts
 -  `Reports/` &mdash; Consolidated Project Report 
 - `README.md` &mdash; Project overview and instructions
