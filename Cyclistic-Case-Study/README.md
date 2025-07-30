@@ -45,7 +45,7 @@ This analysis helps by:
 ## 📁 Project Structure
 
 cyclistic-case-study/
-- `Data/` &mdash; Raw and cleaned datasets  
+- `Data/` &mdash; Cleaned dataset  
 - `Notebooks/` &mdash; Jupyter/Azure Data Studio notebooks containing code, analysis, and visualizations  
 - `Visuals/` &mdash; Exported plots and charts
 -  `Reports/` &mdash; Consolidated Project Report 
