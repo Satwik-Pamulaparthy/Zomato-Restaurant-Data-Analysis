@@ -81,4 +81,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-For feedback or collaboration, please open an issue or reach out via [GitHub](https://github.com/<your-username>).
+For feedback or collaboration, please open an issue or reach out via [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/sibeso-like-228072191)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:sibesolike@gmail.com)
