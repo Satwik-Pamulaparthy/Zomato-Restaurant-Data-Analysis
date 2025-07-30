@@ -69,7 +69,7 @@ cyclistic-case-study/
 1. **Clone the Repository**  
 ```bash
 git clone https://github.com/MeLike-25/cyclistic-case-study.git
-
+```
 For feedback or collaboration reach out to me via [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/sibeso-like-228072191)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:sibesolike@gmail.com)
 
