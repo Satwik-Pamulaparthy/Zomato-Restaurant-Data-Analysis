@@ -41,7 +41,7 @@ This analysis helps by:
 - 📍 Start/end stations and rideable types vary significantly by user type.
 - 🚫 Trips with negative or zero durations, mismatched coordinates, and test rides were cleaned out to ensure quality analysis.
 
-**[➡️ View the Documentation](https://github.com/MeLike-25/Data-Analytics/blob/518cdef2d453fb5935fbd9c4a3d5f05c104add11/Cyclistic-Case-Study/Cyclistic_Case_Study_Final_Report.pdf)** | **[ dashboards link](link-to-your-live-tableau-dashboard)**
+**[➡️ View the Documentation](https://github.com/MeLike-25/Data-Analytics/blob/518cdef2d453fb5935fbd9c4a3d5f05c104add11/Cyclistic-Case-Study/Cyclistic_Case_Study_Final_Report.pdf)** | 
 
 ---
 
