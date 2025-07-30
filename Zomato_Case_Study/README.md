@@ -52,7 +52,7 @@ To explore or reproduce the analysis:
 
 1. **Clone the repository:**  
    ```bash
-   git clone [https://github.com/<your-username>/<your-repo>.git](https://github.com/MeLike-25/Data-Analytics)
+   git clone [Repository](https://github.com/MeLike-25/Data-Analytics)
    ```
 
 2. **Open the Notebooks:**  
@@ -71,7 +71,7 @@ All visualizations and key insights are embedded within the notebooks. Please re
 
 ## 🙏 Credits
 
-- Data Source: [Kaggle][((https://storage.googleapis.com/kaggle-data-sets/14506/21473/compressed/zomato.csv.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20250723%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250723T180546Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=25b036510909972472a2f794dde42cfa99327e7082739605a910546e3a92c0997765d9b9ab7915523b59981469be5b9c04ce1c6533f53220fc93d24b2119f2ebb83c04ae80893f3df6cc5170945026fe984c0ebd1f53de3a3a884cae196986b17f5a3da6aa91e2a894a5f0793add1805ffcb7f30ea2e847abab6c38b7a868c61e8f54b0fa175d5baf3c9b7186ee160b046418a7ddae8389dda8a6741d9f0b95695c783ccee1360ea6169485d4c9700bcaed86c8969075c510f3b3a92b75025475858f85d617fba51d8436d7e6f27fed8a71e0f3b4f0bba8308bcdee837a187445d07a7ee7e18dab550fc98943faa4dbb3b502917dc12fab0ce2b50c4cd01ccb1)]
+**[➡️ Data Source](https://kaggle.com)**
 - Analysis & Reporting: [Sibeso Like]
 
 ## 📄 License
@@ -80,4 +80,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-For feedback or collaboration, please open an issue or reach out via [GitHub](https://github.com/<MeLike25>).
+For feedback or collaboration, please open an issue or reach out via [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/sibeso-like-228072191)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:sibesolike@gmail.com)
