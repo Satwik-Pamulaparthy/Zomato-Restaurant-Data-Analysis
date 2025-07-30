@@ -52,11 +52,12 @@ To explore or reproduce the analysis:
 
 1. **Clone the repository:**  
    ```bash
-  git clone https://github.com/MeLike-25/zomato_case_study.git
+   git clone https://github.com/<your-username>/<your-repo>.git
    ```
 
 2. **Open the Notebooks:**  
-      - Run locally with Jupyter Notebook:
+   - Use [Google Colab](https://colab.research.google.com/) for cloud-based execution, or
+   - Run locally with Jupyter Notebook:
      ```bash
      pip install pandas numpy matplotlib seaborn
      jupyter notebook
@@ -67,12 +68,12 @@ To explore or reproduce the analysis:
 
 ## 📖 Results Interpretation
 
-All visualizations and key insights are embedded within the notebooks. Please refer to the **notebooks** and **visuals** folders for detailed charts, graphs, and narrative explanations.
+All visualizations and key insights are embedded within the notebooks. Please refer to the **notebooks** and **images** folders for detailed charts, graphs, and narrative explanations.
 
 ## 🙏 Credits
 
-**[➡️ Data Source downloaded on Kaggle](https://kaggle.com)**
-- Analysis & Reporting: [Sibeso Like]
+- Data Source: [Zomato Restaurant Search & Discovery Service](https://www.zomato.com/)
+- Analysis & Reporting: [Your Name or GitHub Username]
 
 ## 📄 License
 
@@ -80,5 +81,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-For feedback or collaboration, please open an issue or reach out via [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/sibeso-like-228072191)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:sibesolike@gmail.com)
+For feedback or collaboration, please open an issue or reach out via [GitHub](https://github.com/<your-username>).
