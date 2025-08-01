@@ -1,6 +1,6 @@
 # 📊 Superstore Dashboard
 
-A data analytics case study on the Superstore dataset, providing insights into sales, profit, returns, and business performance across products, regions, and segments.
+A data analytics case study on the Superstore dataset, providing insights into sales, profit, returns, and business performance across products, regions, and segments using Power BI.
 
 ---
 
@@ -50,7 +50,7 @@ A data analytics case study on the Superstore dataset, providing insights into s
 1. **Dataset:**  
    Use the standard Superstore dataset (ensure data is cleaned and formatted as needed).
 2. **Tools:**  
-   [Power BI]
+   Power BI
 3. **Usage:**  
    Open the superstore.pbix file, and explore the visuals and KPIs.
 
