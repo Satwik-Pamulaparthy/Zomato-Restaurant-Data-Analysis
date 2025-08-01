@@ -58,7 +58,7 @@ A data analytics case study on the Superstore dataset, providing insights into s
 ## 📁 Project Structure
 
 - `data/` &mdash; Raw dataset  
-- `visuals/` &mdash; Superstore.pbix file 
+- `dashboard/` &mdash; superstore.pbix file 
 - `dax/` &mdash; dax-measures.md  
 - `README.md` &mdash; Project overview and instructions
 
