@@ -9,7 +9,7 @@ Passionate about turning raw data into actionable intelligence that drives organ
 
 ## 👨‍💻 Professional Summary
 
-I am a Google-certified Data Analyst with a 10-year foundation in Information Technology. This unique background allows me to bridge the gap between technical infrastructure and data-driven business solutions. I specialize in transforming complex datasets into clear, actionable insights using SQL, R, Python, and leading BI tools like Tableau and Power BI. As a precise and collaborative analyst, my goal is to leverage my expertise to empower data-informed decision-making and help organizations achieve their strategic goals.
+With nearly a decade of experience analyzing complex educational data, my background includes analyzing large datasets like national exam results, alongside comprehensive data management. I bring a unique blend of innovative excellence and a certified **Google Data Analytics** skillset to unlock insights from complex data. I am highly proficient in SQL, Python, R programming, R Markdown, Spreadsheets, Power BI, Tableau, Jupyter Notebooks, and BigQuery, driven by a passion to help organizations transform raw data into clear, actionable intelligence. A strong collaborator who values precision and clarity, I am motivated to leverage my analytical expertise to drive informed decision-making and achieve organizational excellence.
 
 ---
 
@@ -36,8 +36,41 @@ I am a Google-certified Data Analyst with a 10-year foundation in Information Te
     * Cleaned, processed, and analyzed the data using **SQL** in SQL Server Management Studio.
     * Created visualizations using **R** and the Tidyverse package to illustrate the differences in ride duration, time of day, and day of the week between user types.
 * **Tools Used:** `SQL`, `R (Tidyverse)`.
+### 2. # 🍽️ Zomato Restaurant Data Analysis
+*This project is part of my Data Analytics portfolio and presents an in-depth analysis of restaurant data sourced from Zomato, a prominent restaurant search and discovery service. The goal of the research was to uncover key insights regarding cuisine popularity, cost, ratings, and their relationships to restaurant location across various cities and countries.*
+* **Key Insights:**
+- **🍲 Cuisine Popularity:**  
+  Identified top cuisines globally and regionally, highlighting how preferences differ by city and country.
+- **💵 Cost and Ratings:**  
+  Analyzed how the average cost for two people varies by cuisine and how this relates to overall restaurant ratings.
+- **🗺️ Location and Ratings:**  
+  Explored spatial patterns in ratings, uncovering localities with consistently high or low restaurant ratings.
+* **My Process:**
+- **Data Loading and Cleaning**: Loaded the dataset in Google Colab
+- **Data Cleaning** Handled missing values, duplicates, and outliers, and cleaned inconsistencies uing Python.
+- **Exploratory Data Analysis (EDA)**: Analyzed and visualized the distribution of ratings, popularity of cuisines, relationship between cost and rating, and the impact of location and cuisine on average cost.
+  
+* **Tools Used:** `Gooogle Colab`, `Python`.
 
-**[➡️ View Full Analysis on GitHub](https://github.com/MeLike-25/Data-Analytics/blob/518cdef2d453fb5935fbd9c4a3d5f05c104add11/Cyclistic-Case-Study/Cyclistic_Case_Study_Final_Report.pdf)** | **[ dashboards link](link-to-your-live-tableau-dashboard)**
+### 3. Superstore Dashboard Analytics
+*A data analytics case study on the Superstore dataset, providing insights into sales, profit, returns, and business performance across products, regions, and segments using Power BI.*
+* **Key Insights:**
+- Yearly trends and growth in sales and profit.
+- Top and bottom performing products by profitability.
+- Regions and segments driving business success.
+- Impact and rate of returned orders on performance
+
+* **Data Source:** [Kaggle](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmlNem9TejJvQUpsZ2lfa0l6WHFnVWIxS01jZ3xBQ3Jtc0trdHg4WDF3Z2pocmpIVXNxLVZYaDhtd0c1Uk5wZXVpcVdnZUI2SVNpbTQ3UWR1UTlUZEZpRDUzZDNxRkN0Z2xkVkFXM2E0TnpHNFhlLW1HNzRsc0h4WFVQdGtGWWtvVDV5MXI3cG5pV1BLc0oyY05KMA&q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fbitricks%2Fsuperstore-dataset&v=5se3nFK_dFo)
+
+* **My Process:**
+- **Data Loading:** The dataset was imported into Power BI.
+- **Data Cleaning:** handled missing values, duplicates, and outliers, and cleaned inconsistencies.
+- **Created key measures** like sales, profit, percentage of returned Orders, and percentage of change vs per year.
+- **Created Visualizations** necessary in answering project questions and Formatted them appropriately.
+  
+* **Tools Used:** `Power BI`, `DAX`.
+
+*  **[➡️Dashboard Link](https://github.com/MeLike-25/Data-Analytics/blob/main/Superstore%20Dashboard/dashboard/superstore.pbix)**
 
 
 ---
