@@ -9,7 +9,7 @@ Passionate about turning raw data into actionable intelligence that drives organ
 
 ## 👨‍💻 Professional Summary
 
-With nearly a decade of experience analyzing complex educational data, my background includes analyzing large datasets like national exam results, alongside comprehensive data management. I bring a unique blend of innovative excellence and a certified **Google Data Analytics** skillset to unlock insights from complex data. I am highly proficient in SQL, Python, R programming, R Markdown, Spreadsheets, Power BI, Tableau, Jupyter Notebooks, and BigQuery, driven by a passion to help organizations transform raw data into clear, actionable intelligence. A strong collaborator who values precision and clarity, I am motivated to leverage my analytical expertise to drive informed decision-making and achieve organizational excellence.
+With nearly a decade of experience analyzing complex educational data, my background includes analyzing large datasets like national exam results, alongside comprehensive data management. I bring a unique blend of technical expertise and a certified **Google Data Analytics** skillset to unlock insights from complex data. I am highly proficient in SQL, Python, R programming, R Markdown, Spreadsheets, Power BI, Tableau, Jupyter Notebooks, and BigQuery, driven by a passion to help organizations transform raw data into clear, actionable intelligence. A strong collaborator who values precision and clarity, I am motivated to leverage my analytical expertise to drive informed decision-making and achieve organizational excellence.
 
 ---
 
