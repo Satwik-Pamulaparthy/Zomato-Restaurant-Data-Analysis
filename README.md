@@ -77,5 +77,5 @@ With nearly a decade of experience analyzing complex educational data, my backgr
 
 ## 📫 Contact
 
-- **Email:** Satwik Pamulaparthy | (mailto:vpamu@uic.edu)
-- **LinkedIn:** [linkedin.com/in/sibeso-like-228072191](https://www.linkedin.com/in/satwikpamulaparthy/)
+- **Email:** [Satwik Pamulaparthy] | (mailto:vpamu@uic.edu)
+- **LinkedIn:** [Satwik Pamulaparthy](https://www.linkedin.com/in/satwikpamulaparthy/)
