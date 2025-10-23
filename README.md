@@ -1,6 +1,6 @@
-# Sibeso Like | Data Analytics Portfolio
+Data Analytics Portfolio
 
-Passionate about turning raw data into actionable intelligence that drives organizational excellence.
+
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/satwikpamulaparthy/)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:vpamu@uic.edu)
@@ -77,5 +77,5 @@ With nearly a decade of experience analyzing complex educational data, my backgr
 
 ## 📫 Contact
 
-- **Email:** [sibesolike@gmail.com](mailto:sibesolike@gmail.com)
-- **LinkedIn:** [linkedin.com/in/sibeso-like-228072191](https://www.linkedin.com/in/sibeso-like-228072191)
+- **Email:** Satwik Pamulaparthy | (mailto:vpamu@uic.edu)
+- **LinkedIn:** [linkedin.com/in/sibeso-like-228072191](https://www.linkedin.com/in/satwikpamulaparthy/)
